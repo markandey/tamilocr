@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TamilOCR", "TamilOCR.csproj", "{5AC276DC-8B7D-4D8E-B443-44A661618714}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{5AC276DC-8B7D-4D8E-B443-44A661618714}.Debug.ActiveCfg = Debug|.NET
+		{5AC276DC-8B7D-4D8E-B443-44A661618714}.Debug.Build.0 = Debug|.NET
+		{5AC276DC-8B7D-4D8E-B443-44A661618714}.Release.ActiveCfg = Release|.NET
+		{5AC276DC-8B7D-4D8E-B443-44A661618714}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
